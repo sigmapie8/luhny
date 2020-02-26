@@ -5,3 +5,8 @@ Luhn's Algorithm is used all around the world to check for the validity of credi
 ```nim
 check_number("<credit card number>")
 ```
+
+## Install
+```bash
+nimble install luhny
+```
